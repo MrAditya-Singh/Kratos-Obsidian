@@ -28,6 +28,12 @@ C:\Users\Dell\Obsidian-Workspace
 
 Open this folder as an Obsidian vault to use the index. Open each subject folder separately when studying that subject.
 
-## Unchanged existing vault
+## Independent Thought vault
 
-The existing `remote-blog` vault and [Personal-OBSIDIAN](https://github.com/MrAditya-Singh/Personal-OBSIDIAN) repository are separate and intentionally excluded from this workspace.
+The former `remote-blog` vault is now located at:
+
+```text
+C:\Users\Dell\Obsidian-Workspace\Independent Thought
+```
+
+It remains connected to the existing [Personal-OBSIDIAN](https://github.com/MrAditya-Singh/Personal-OBSIDIAN) repository.
